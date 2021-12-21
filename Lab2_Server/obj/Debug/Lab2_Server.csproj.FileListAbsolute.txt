@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\bin\Debug\Lab2_Server.exe.config
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\bin\Debug\Lab2_Server.exe
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\bin\Debug\Lab2_Server.pdb
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\bin\Debug\Library.dll
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\bin\Debug\Library.pdb
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\obj\Debug\Lab2_Server.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\obj\Debug\Lab2_Server.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\obj\Debug\Lab2_Server.csproj.CopyComplete
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\obj\Debug\Lab2_Server.exe
+C:\Users\1\source\repos\Lab2_WCF\Lab2_Server\obj\Debug\Lab2_Server.pdb
